@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **KR Consulting & Service**
 
-- 🌱 I’m currently learning **back-end**
+- 🌱 I’m currently learning **Docker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
