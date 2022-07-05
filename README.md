@@ -6,7 +6,7 @@
 </div>
 
 
-- 🔭 I’m currently working on **KR Consulting & Service**
+- 🔭 <a href="https://senaportfolio.herokuapp.com" target="_blank">Check my portfólio</a>
 
 - 🌱 I’m currently learning **MongoDb**
 
