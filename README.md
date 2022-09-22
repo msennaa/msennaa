@@ -1,9 +1,6 @@
 <h1 align="center">Bem vindo! Meu nome é Matheus</h1>
 <h3 align="center">Desenvolvedor FullStack</h3>
 
-- 💻 Dê uma olhadinha no meu [portfólio](http://senaportfolio.herokuapp.com/)
--  <p>📩:  <b>senamatheusjob@gmail.com</b></p>
-
 <h3 align="left">Redes:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/msenaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="msenaa" height="30" width="40" /></a>
