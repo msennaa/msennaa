@@ -39,7 +39,7 @@
 <div>
   <div align="center">
     <a href="https://github.com/MSennaa">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSennaa&&hide_border=true&show_icons=true&bg_color=50,cc0000,000000&title_color=ffc222&text_color=fff&layout=compact&langs_count=7"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSennaa&&hide_border=true&show_icons=true&bg_color=50,483d8b,000000&title_color=ffc222&text_color=fff&layout=compact&langs_count=7"/>
     </a>
   </div>
 </div>
