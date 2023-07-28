@@ -1,5 +1,7 @@
 <h1 align="center">Bem vindo! Meu nome é Matheus Sena</h1>
-<h3 align="center">Desenvolvedor FullStack</h3>
+
+<h3 align="center">Graduado em Análise e Desenvolvimento de Sistemas</h3>
+<h3 align="center">Pós-graduando em Arquitetura de Soluções</h3>
 
 <h3 align="center">Redes:</h3>
 <p align="center">
